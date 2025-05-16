@@ -6,5 +6,5 @@
         public string FullName { get; set; }
         public string Slug { get; set; }
         public List<BookAuthor> BookAuthors { get; set; }
+    }
 }
-BookAuthor(رابط many-to-many)
